@@ -8,4 +8,5 @@ public class Repo {
 	//注释
 	int c = 4;
 	//d=5
+	int d = 5;
 }
