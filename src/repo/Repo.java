@@ -12,4 +12,5 @@ public class Repo {
 	//版本2.0
 	//版本3.0
 	
+	int e = 6;
 }
